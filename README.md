@@ -1,5 +1,6 @@
 
 ### Table of Contents
+Here is the line I just added
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
